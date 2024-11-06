@@ -4,9 +4,6 @@
 
 This is a basic Node.js project template using TypeScript to demonstrate a simple setup. It uses `ts-node` for TypeScript execution and REPL for node.js, with source map and native ESM support. In other words, copy this template, do `npm install` and you should be good to go, or setup manually.
 
-## Table of contents
-
-
 ## Requirements
 
 - Node.js (>= 14)
