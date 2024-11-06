@@ -15,7 +15,9 @@ This is a basic Node.js project template using TypeScript to demonstrate a simpl
 ## Installation
 
 ### Copy repository
-
+1. Copy repository
+2. Install dependencies: `npm install`
+3. Navigate to project folder
 
 ### Manual installation
 
